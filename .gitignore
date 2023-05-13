@@ -1,0 +1,12 @@
+ **/build/**
+ **/.vscode/**
+./**/*.out
+./**/build
+./**/.vscode
+.vscode
+build
+./**/*.out
+**.out
+**/*.out
+ **/*.out
+*/*.out
