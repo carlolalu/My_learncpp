@@ -10,3 +10,4 @@ build
 **/*.out
  **/*.out
 */*.out
+.idea/
