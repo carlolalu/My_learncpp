@@ -46,27 +46,24 @@ namespace k
 // binarySearch() should return the index of the target element if the target is found, -1 otherwise
 int binarySearch_iterative(const int* array, int target, int min, int max)
 {
-    do{
+    while(max>=min)
+    {
         int center { min + (max-min)/2 };
         int middle_element = array[static_cast<std::size_t>(center)];
 
         if(target == middle_element) { return center; 
-        } else if (target > middle_element) { min = center; 
-        } else { max = center; }
-    } while(max-min>1);
+        } else if (target > middle_element) { min = center + 1; 
+        } else { max = center - 1; }
+    }
 
-    if(array[static_cast<std::size_t>(min)]==target){
-        return min;
-    } else { return k::sentinel; }
+    return k::sentinel;
 }
 
 int binarySearch_recursive(const int* array, int target, int min, int max)
 {
-    if(max-min<=1)
+    if(min>max)
     {
-        if(array[static_cast<std::size_t>(min)]==target){
-            return min;
-        } else { return k::sentinel; }
+        return k::sentinel;
     }
 
     int center { min + (max-min)/2 };
@@ -74,8 +71,8 @@ int binarySearch_recursive(const int* array, int target, int min, int max)
 
     if(target == middle_element) { return center; 
     } else if (target > middle_element) { 
-        min = center; 
-    } else { max = center; }
+        min = center+1; 
+    } else { max = center-1; }
 
     return binarySearch_recursive(array, target, min, max);
 

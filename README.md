@@ -7,6 +7,6 @@ PS: all these exercises are compiled with this command:
 ```
 # compiler as learncpp adivises
 # with the right standards in debug conf
- alias gpp-pedantic='g++ -ggdb -pedantic-errors -Wall -Weffc++ -Wextra -Werrors -Wsign-conversion -std=c++20'
+ alias gpp-pedantic='g++ -ggdb -pedantic-errors -Wall -Weffc++ -Wextra -Werror -Wsign-conversion -std=c++20'
 
 ```
