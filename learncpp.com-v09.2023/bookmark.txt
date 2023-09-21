@@ -1,6 +1,7 @@
 topic 1: learncpp.com
+bookmark: 22.4
 
-21.y
+topic 2: learn smt about computer networks from 'a Top down approch'.
+Bookmark : ch1 - page18
 
-I add another topic here: learn smt about computer networks from the website of geeksforgeeks. 
-topic 2: chapter Protocols
+topic 3: https://pages.github.com/ (personlise your github page to learn some html, css and javascript. Very not-necessary for now)

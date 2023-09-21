@@ -44,7 +44,7 @@ int main (void)
     int *(*ptr_to_ptrsarray)[7] = &array_ptrs;
     std::cout << typeid(ptr_to_ptrsarray).name() << "\n";
 
-    // some random operation to exercise with the syntax of the commands
+    // some random operation to exercise with the syntax of the Commands
     (*ptr_to_array)[4] = {**double_ptr};
     std::cout << array[4] << "\n";
 
