@@ -1,7 +1,11 @@
-topic 1: learncpp.com
-bookmark: 22.4
+topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
+23.3
 
-topic 2: learn smt about computer networks from 'a Top down approch'.
-Bookmark : ch1 - page18
+topic 2: learn smt about computer networks from the book 'a top down approach'.
+Bookmark : ch2 - 2.1.3 (remember homeworks when you finish 2.1 and wireshark lab)
 
-topic 3: https://pages.github.com/ (personlise your github page to learn some html, css and javascript. Very not-necessary for now)
+left behind: most of problems of ch1 (beautiful mathematical things)
+
+From now on I advise to do a section and then some problems every time. Another option is to use the book of Kurose ONLINE. It has a lot of good exercises and powerpoint presentations!!! I have also to select just a number of exercises, cannot do all of them
+
+topic 2b: practice of topic2 following the website of the book
