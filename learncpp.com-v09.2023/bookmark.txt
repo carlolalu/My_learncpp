@@ -1,11 +1,27 @@
 topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
-24.2
+Bookmark: 24.x
 
-topic 2: learn smt about computer networks from the book 'a top down approach'.
-Bookmark : ch2 - 2.1.3 (remember homeworks when you finish 2.1 and wireshark lab)
+at the end of ch26, return to check the lesson 24.9 on the navtab 'for advanced readers'
 
-left behind: most of problems of ch1 (beautiful mathematical things)
 
-From now on I advise to do a section and then some problems every time. Another option is to use the book of Kurose ONLINE. It has a lot of good exercises and powerpoint presentations!!! I have also to select just a number of exercises, cannot do all of them
+
+topic 2: learn smt about computer networks from the book 'a top down approach' + exercises
+Bookmark (ch.section(.subsection)): 2.2.1 (remember to do the exercises at the end of each section)
 
 topic 2b: practice of topic2 following the website of the book
+Bookmark: HTTP of the wireshark lab
+
+topic 2c: interactive quiz from the website of Kurose
+
+future topic 3: rust somehow
+
+----------------------------- already done -------------------------------
+
+practiced from topic2b: introduction
+
+Exercises form the book already done (at least speaking out loud):
+2.1
+
+Ex still to be done: all of ch1 (beautiful math ones)
+
+

@@ -13,7 +13,7 @@ int main(void)
 }
 
 
-//brute force system: will likely crash for the lack of memory
+//brute force system
 long long sum_even_fibonacci(long upperbound)
 {
     long tmp;
