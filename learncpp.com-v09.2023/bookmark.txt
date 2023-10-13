@@ -1,12 +1,12 @@
 topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
-Bookmark: 24.x
+Bookmark: 25.1
 
 at the end of ch26, return to check the lesson 24.9 on the navtab 'for advanced readers'
 
 
 
 topic 2: learn smt about computer networks from the book 'a top down approach' + exercises
-Bookmark (ch.section(.subsection)): 2.2.1 (remember to do the exercises at the end of each section)
+Bookmark (ch.section(.subsection)): 2.2.3 (remember to do the exercises at the end of each section)
 
 topic 2b: practice of topic2 following the website of the book
 Bookmark: HTTP of the wireshark lab
