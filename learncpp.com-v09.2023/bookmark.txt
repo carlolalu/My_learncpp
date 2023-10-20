@@ -1,27 +1,34 @@
 topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
-Bookmark: 25.1
-
-at the end of ch26, return to check the lesson 24.9 on the navtab 'for advanced readers'
+Bookmark:       26.1
+(at the end of ch26, return to check the lesson 24.9 on the navtab 'for advanced readers')
 
 
 
 topic 2: learn smt about computer networks from the book 'a top down approach' + exercises
-Bookmark (ch.section(.subsection)): 2.2.3 (remember to do the exercises at the end of each section)
+Bookmark (ch.section(.subsection)):    2.3.1  (remember: do exercises at the end of section)
+
+
+
 
 topic 2b: practice of topic2 following the website of the book
 Bookmark: HTTP of the wireshark lab
 
-topic 2c: interactive quiz from the website of Kurose
-
-future topic 3: rust somehow
+topic 2c: interactive quiz from the website of Kurose, basic exercises that chatgpt suggests to learn networking with libraries cpp and c.
 
 ----------------------------- already done -------------------------------
 
-practiced from topic2b: introduction
 
-Exercises form the book already done (at least speaking out loud):
-2.1
 
-Ex still to be done: all of ch1 (beautiful math ones)
+
+----------------------------- future topics --------------------------------
+
+rust (motivation: the great heir of c and cpp, but more comfortable and with less traps. very precise)
+following now Steve Klabnik, Carol Nichols - The Rust Programming Language (2019, No Starch Press)
+topic 3: chapter 1
+
+
+julia basics (main motivation: mathematical and physical easy simulations and models. On the worst case ask chatgtp to create them for you, but then where's the fun for it? And also for complicated stuff it becomes inefficient to ask the AI, because you must thoroughly communicate your idea)
+following: ch1-4, appendix d-e of `Paul D. McNicholas, Peter A. Tait - Data Science with Julia-CRC Press (2019)`
+topic 4: 
 
 
