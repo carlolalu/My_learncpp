@@ -1,27 +1,4 @@
 topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
-Bookmark:       27.1
-(at the end of ch26, return to check the lesson 24.9 on the navtab 'for advanced readers')
+Bookmark:       28.1
 
-
-
-topic 2: learn smt about computer networks from the book 'a top down approach' + exercises
-Bookmark (ch.section(.subsection)):    2.3.1  (remember: do exercises at the end of section)
-
-
-
-
-topic 2b: practice of topic2 following the website of the book
-Bookmark: HTTP of the wireshark lab
-
-topic 2c: interactive quiz from the website of Kurose, basic exercises that chatgpt suggests to learn networking with libraries cpp and c.
-
------------------------------ already done -------------------------------
-
-
-
-
------------------------------ future topics --------------------------------
-julia basics (main motivation: mathematical and physical easy simulations and models. On the worst case ask chatgtp to create them for you, but then where's the fun for it? And also for complicated stuff it becomes inefficient to ask the AI, because you must thoroughly communicate your idea)
-following: ch1-4, appendix d-e of `Paul D. McNicholas, Peter A. Tait - Data Science with Julia-CRC Press (2019)`
-
-
+already dealt with: appendix C. I will skip appendix B.
