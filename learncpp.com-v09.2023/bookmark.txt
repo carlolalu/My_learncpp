@@ -1,4 +1,6 @@
-topic 1: learncpp.com (one day I will be able to write here 'FINISHED!')
-Bookmark:       28.1
+topic 1: learncpp.com (FINISHED!)
+Bookmark:       A.1 - extremely useful: how to install new libraries properly
 
 already dealt with: appendix C. I will skip appendix B.
+
+Next objective for some repo: learn DESIGN PATTERNS

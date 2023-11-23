@@ -24,3 +24,4 @@ The chapter 'The End?' underlines that the journey has just started. Precisely p
 
 I hope to address most of this in the next repos I am gonna create. Precisely I hope to address design-patterns and GUI applications in another repo that I could call 'cpp-libraries', or to learn by doing in some project in 'trainspotter'. For the Internet I have already 'kurose-networking'. Regarding 'Multithreading' I hope to address the thing with rust, which should be much much easier than cpp regarding the topic.
 
+To watch my progress it is advisable to check also the various `bookmark` files scattered around the various directories
